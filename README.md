@@ -37,8 +37,9 @@ Perfect for copyright notices and footers without needing to update the year man
 
 Simply use the shortcode anywhere in your WordPress site:
 
-```text
+````text
 [year]
+text```
 
 Example
 © [year] Your Company Name. All rights reserved.
@@ -53,7 +54,7 @@ date('Y');
 
 No database usage, no external dependencies.
 
-📄 Plugin Details
+## 📄 Plugin Details
 	•	Plugin Name: Dynamic Year Shortcode
 	•	Version: 1.0.0
 	•	Author: PicklesBucket
@@ -78,4 +79,4 @@ Feel free to open an issue or submit a pull request.
 ⭐ Support
 
 If you find this plugin useful, please consider starring the repository ⭐
-```
+````
