@@ -58,7 +58,7 @@ This will automatically output:
 The plugin registers a WordPress shortcode that returns the current year using PHP:
 date('Y');
 
-No database usage, no external dependencies.
+## No database usage, no external dependencies.
 
 ## 📄 Plugin Details
 
@@ -67,22 +67,24 @@ No database usage, no external dependencies.
     •	Author: PicklesBucket
     •	Website: https://www.picklesbucket.com
 
-⸻
+---
 
 ## 📜 License
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it.
 
-⸻
+---
 
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome.
 Feel free to open an issue or submit a pull request.
 
-⸻
+---
 
 ## ⭐ Support
 
 If you find this plugin useful, please consider starring the repository ⭐
+
+---
