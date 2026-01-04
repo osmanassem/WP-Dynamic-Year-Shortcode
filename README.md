@@ -60,6 +60,8 @@ date('Y');
 
 ## No database usage, no external dependencies.
 
+---
+
 ## 📄 Plugin Details
 
     •	Plugin Name: WP Dynamic Year Shortcode
