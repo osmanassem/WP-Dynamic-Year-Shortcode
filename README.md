@@ -62,7 +62,7 @@ No database usage, no external dependencies.
 
 ## 📄 Plugin Details
 
-    •	Plugin Name: Dynamic Year Shortcode
+    •	Plugin Name: WP Dynamic Year Shortcode
     •	Version: 1.0.0
     •	Author: PicklesBucket
     •	Website: https://www.picklesbucket.com
