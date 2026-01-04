@@ -37,13 +37,21 @@ Perfect for copyright notices and footers without needing to update the year man
 
 Simply use the shortcode anywhere in your WordPress site:
 
+```text
 [year]
+```
 
 Example
+
+```text
 © [year] Your Company Name. All rights reserved.
+```
 
 This will automatically output:
+
+```text
 © 2026 Your Company Name. All rights reserved.
+```
 
 🛠 How It Works
 
@@ -78,7 +86,3 @@ Feel free to open an issue or submit a pull request.
 ## ⭐ Support
 
 If you find this plugin useful, please consider starring the repository ⭐
-
-```
-
-```
